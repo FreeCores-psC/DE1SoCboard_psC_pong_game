@@ -1,3 +1,3 @@
-*.psc linguist-language=C++
-*.psC linguist-language=C++
+*.psc linguist-language=VHDL
+*.psC linguist-language=VHDL
 
